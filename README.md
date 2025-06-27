@@ -1,2 +1,2 @@
 # automatic-coffee-been-color-sorter
- arduino project to suparreat
+ arduino project to suparreat.
